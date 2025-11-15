@@ -1,0 +1,50 @@
+{
+  "file_name": "отр-1.pdf",
+  "total_pages": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "signatures": [
+        {
+          "bbox": [
+            846,
+            1745,
+            1164,
+            1952
+          ],
+          "confidence": 0.736918568611145,
+          "label": "signature"
+        },
+        {
+          "bbox": [
+            856,
+            1681,
+            1502,
+            2191
+          ],
+          "confidence": 0.6802448630332947,
+          "label": "signature"
+        }
+      ],
+      "qr_codes": [],
+      "stamps": [
+        {
+          "bbox": [
+            1044,
+            1698,
+            1504,
+            2163
+          ],
+          "confidence": 0.5701626539230347,
+          "label": "stamp"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "signatures": [],
+      "qr_codes": [],
+      "stamps": []
+    }
+  ]
+}
