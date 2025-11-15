@@ -309,5 +309,3 @@ def quick_test():
 
 if __name__ == "__main__":
     quick_test()
-
-    

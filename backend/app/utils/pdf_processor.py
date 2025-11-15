@@ -5,7 +5,7 @@ import tempfile
 import os
 from pathlib import Path
 from typing import List, Dict
-from .detection_services import digital_inspector
+from services.detection_services import digital_inspector
 
 class PDFProcessor:
     def __init__(self):
