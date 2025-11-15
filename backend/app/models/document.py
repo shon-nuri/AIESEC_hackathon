@@ -1,6 +1,6 @@
 from sqlalchemy import CheckConstraint, Column, DateTime, Float, Integer, String, Enum, ForeignKey
 from sqlalchemy.orm import relationship
-from db.database import Base
+from backend.app.db.database import Base
 from backend.app.enums import Status, Label
 
 
@@ -33,6 +33,7 @@ class Page(Base):
 
 class Detection(Base):
     __tablename__ = "detection"
+    id = Column(Integer, primary_key=True)
     page_id = Column(ForeignKey("page.id"))
     label = Column(Enum(Label), nullable=False)
     x_min = Column(Float, nullable=False)
