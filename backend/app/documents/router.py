@@ -25,3 +25,11 @@ async def create_upload_file(file: UploadFile = File(...)):
         "saved_to": file_location,
         "content_type": file.content_type,
     }
+
+@router.post("{id}/process")
+def process_files():
+    pass
+
+@router.get("{id}/export")
+def export_files(id: int):
+    pass
