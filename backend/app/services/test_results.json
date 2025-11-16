@@ -1,0 +1,533 @@
+{
+  "test_info": {
+    "timestamp": "2024-01-15T...", 
+    "pdfs_directory": "C:\\Users\\user\\Desktop\\Programming\\aiesec_hackathon\\selected_output\\pdfs",
+    "total_files": 58
+  },
+  "summary": {
+    "successful": 58,
+    "failed": 0,
+    "total_processing_time": 280.88,
+    "total_signatures": 70,
+    "total_qr_codes": 102,
+    "total_stamps": 0,
+    "total_pages_processed": 167
+  },
+  "files": [
+    {
+      "file_name": "АПЗ-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 1, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 1, "stamps": 0},
+        {"page": 3, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 4, "signatures": 0, "qr_codes": 1, "stamps": 0},
+        {"page": 5, "signatures": 0, "qr_codes": 1, "stamps": 0},
+        {"page": 6, "signatures": 0, "qr_codes": 1, "stamps": 0},
+        {"page": 7, "signatures": 0, "qr_codes": 1, "stamps": 0},
+        {"page": 8, "signatures": 1, "qr_codes": 1, "stamps": 0},
+        {"page": 9, "signatures": 0, "qr_codes": 15, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "АПЗ-2.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 1, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 1, "stamps": 0},
+        {"page": 3, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 4, "signatures": 0, "qr_codes": 1, "stamps": 0},
+        {"page": 5, "signatures": 0, "qr_codes": 1, "stamps": 0},
+        {"page": 6, "signatures": 0, "qr_codes": 1, "stamps": 0},
+        {"page": 7, "signatures": 0, "qr_codes": 1, "stamps": 0},
+        {"page": 8, "signatures": 1, "qr_codes": 1, "stamps": 0},
+        {"page": 9, "signatures": 0, "qr_codes": 15, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "АПЗ-31-.pdf",
+      "status": "success", 
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 1, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 1, "stamps": 0},
+        {"page": 3, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 4, "signatures": 0, "qr_codes": 1, "stamps": 0},
+        {"page": 5, "signatures": 0, "qr_codes": 1, "stamps": 0},
+        {"page": 6, "signatures": 0, "qr_codes": 1, "stamps": 0},
+        {"page": 7, "signatures": 0, "qr_codes": 1, "stamps": 0},
+        {"page": 8, "signatures": 1, "qr_codes": 1, "stamps": 0},
+        {"page": 9, "signatures": 0, "qr_codes": 15, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "АПЗ-41-чб.pdf", 
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 1, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 15, "stamps": 0},
+        {"page": 3, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 4, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 5, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 6, "signatures": 0, "qr_codes": 1, "stamps": 0},
+        {"page": 7, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 8, "signatures": 0, "qr_codes": 1, "stamps": 0},
+        {"page": 9, "signatures": 0, "qr_codes": 1, "stamps": 0},
+        {"page": 10, "signatures": 0, "qr_codes": 1, "stamps": 0},
+        {"page": 11, "signatures": 0, "qr_codes": 1, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "Археология-.pdf",
+      "status": "success", 
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 4, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "Археология-2.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "Археология-31-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 3, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "археология-41-чб.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "дефект-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 3, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "дефект-2.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 3, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "дефект-31-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 3, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "дефект-41-чб.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 3, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "Дозиметр-41-чб.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 3, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 4, "signatures": 1, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "дозиметрия-2.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 3, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 4, "signatures": 0, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "дозиметрия-31-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 3, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 4, "signatures": 1, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "лицензия-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 4, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 4, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "локалсмета-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 3, "signatures": 1, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "Локалсмета-2.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 3, "signatures": 1, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "локалсмета-32-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 3, "signatures": 1, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "локалсметчб-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 3, "signatures": 1, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "отр-1.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 2, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "отр-11.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "отр-2.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 1, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 3, "signatures": 1, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "отр-22.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 3, "signatures": 1, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "отр-31-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 2, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "отр-32-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 1, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 3, "signatures": 0, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "отр-41-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "паспортпроекта-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 1, "qr_codes": 0, "stamps": 0},
+        {"page": 3, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 4, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 5, "signatures": 1, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "Паспортпроекта-2.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 3, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 4, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 5, "signatures": 0, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "Паспортпроекта-31-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 1, "qr_codes": 0, "stamps": 0},
+        {"page": 3, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 4, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 5, "signatures": 2, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "Паспортпроекта-41-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 3, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 4, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 5, "signatures": 0, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "перечень-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 1, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 2, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "Перечень-2.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "перечень-31-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 2, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 3, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "перечень-32-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "письмо-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 1, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "письмо-11.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 1, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "Письмо-2.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 2, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "письмо-22.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 1, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "письмо-31-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 1, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "письмо-32-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 1, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "Письмо-41-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 2, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "Письмо-42.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 1, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "протоколдоз-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 3, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 4, "signatures": 1, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "разрешназемл-2.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "разрешназемлю-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 1, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "Разрешназемлю-31-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 1, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "Разрешназемлю-41-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 1, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "разрешнатех-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 7, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "ТЗ-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 1, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 3, "signatures": 1, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "ТЗ-2.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 3, "signatures": 0, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "ТЗ-31-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 1, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 3, "signatures": 2, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "ТЗ-41-чб.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 3, "signatures": 0, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "ТУ-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "ТУ-2.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "ТУ-31-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 1, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "ТУ-41-чб.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 0, "qr_codes": 0, "stamps": 0},
+        {"page": 2, "signatures": 0, "qr_codes": 0, "stamps": 0}
+      ]
+    },
+    {
+      "file_name": "чертеж-.pdf",
+      "status": "success",
+      "pages": [
+        {"page": 1, "signatures": 1, "qr_codes": 0, "stamps": 0}
+      ]
+    }
+  ]
+}
