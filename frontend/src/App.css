@@ -1,0 +1,67 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.upload-section {
+  margin: 20px 0;
+}
+
+.controls {
+  margin: 20px 0;
+}
+
+.controls button {
+  margin: 0 10px;
+  padding: 10px 20px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.controls button:disabled {
+  background: #6c757d;
+  cursor: not-allowed;
+}
+
+.loading {
+  color: #007bff;
+  font-weight: bold;
+  margin: 20px 0;
+}
+
+.error {
+  color: #dc3545;
+  margin: 20px 0;
+}
+
+.results {
+  margin-top: 30px;
+  text-align: left;
+}
+
+.counts {
+  background: #f8f9fa;
+  padding: 15px;
+  border-radius: 5px;
+  margin: 15px 0;
+}
+
+.result-image {
+  margin: 20px 0;
+}
+
+.result-image img {
+  max-width: 100%;
+  border: 2px solid #dee2e6;
+  border-radius: 5px;
+}
+
+.detections {
+  background: #f8f9fa;
+  padding: 15px;
+  border-radius: 5px;
+  overflow-x: auto;
+}
